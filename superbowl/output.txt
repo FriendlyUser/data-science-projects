@@ -1,0 +1,51 @@
+                   0                    1                  2
+0  Touchdown Leaders    Touchdown Leaders  Touchdown Leaders
+1                 RK               PLAYER                 TD
+2                  1           Jerry Rice                208
+3                  2         Emmitt Smith                175
+4                  3  LaDainian Tomlinson                162
+                                0  ...                               3
+0  Super Bowl Winners and Results  ...  Super Bowl Winners and Results
+1                             NO.  ...                          RESULT
+2                               I  ...    Green Bay 35, Kansas City 10
+3                              II  ...        Green Bay 33, Oakland 14
+4                             III  ...   New York Jets 16, Baltimore 7
+
+[5 rows x 4 columns]
+                                  0  ...                                 2
+0  Super Bowl Most Valuable Players  ...  Super Bowl Most Valuable Players
+1                               NO.  ...                        HIGHLIGHTS
+2                                 I  ...              Two touchdown passes
+3                                II  ...           202 yards passing, 1 TD
+4                               III  ...                 206 yards passing
+
+[5 rows x 3 columns]
+Index(['NO.', 'DATE', 'SITE', 'RESULT'], dtype='object', name=1)
+1  NO.  ...                         RESULT
+2    I  ...   Green Bay 35, Kansas City 10
+3   II  ...       Green Bay 33, Oakland 14
+4  III  ...  New York Jets 16, Baltimore 7
+5   IV  ...    Kansas City 23, Minnesota 7
+6    V  ...        Baltimore 16, Dallas 13
+
+[5 rows x 4 columns]
+['Los Angeles Memorial Coliseum' 'Orange Bowl (Miami)'
+ 'Tulane Stadium (New Orleans)' 'Rice Stadium (Houston)'
+ 'Rose Bowl (Pasadena, Calif.)' 'Superdome (New Orleans)'
+ 'Silverdome (Pontiac, Mich.)' 'Tampa (Fla.) Stadium'
+ 'Stanford (Calif.) Stadium' 'Jack Murphy Stadium (San Diego)'
+ 'Joe Robbie Stadium (Miami)' 'Metrodome (Minneapolis)'
+ 'Georgia Dome (Atlanta)' 'Sun Devil Stadium (Tempe, Ariz.)'
+ 'Qualcomm Stadium (San Diego)' 'Pro Player Stadium (Miami)'
+ 'Raymond James Stadium (Tampa, Fla.)' 'Reliant Stadium (Houston)'
+ 'Alltel Stadium (Jacksonville, Fla.)' 'Ford Field (Detroit)'
+ 'Dolphin Stadium (Miami)'
+ 'University of Phoenix Stadium (Glendale, Ariz.)'
+ 'Sun Life Stadium (Miami)' 'Cowboys Stadium (Arlington, Texas)'
+ 'Lucas Oil Stadium (Indianapolis)'
+ 'Mercedes-Benz Superdome (New Orleans)'
+ 'MetLife Stadium (East Rutherford, N.J.)'
+ "Levi's Stadium (Santa Clara, Calif.)" 'NRG Stadium (Houston)'
+ 'U.S. Bank Stadium (Minneapolis)' 'Mercedes-Benz Stadium (Atlanta)'
+ 'Hard Rock Stadium (Miami)' 'SoFi Stadium (Inglewood, Calif.)'
+ 'State Farm Stadium (Glendale, Ariz.)']
